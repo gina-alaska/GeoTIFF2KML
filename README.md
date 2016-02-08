@@ -5,6 +5,7 @@ This is a quick demo to show how to generate a KMZ/KML from a GeoTIFF that cross
 ## Requirements
 
 * gdal 1.10+
+* Terminal window/command line interface
 
 ## Instructions
 
