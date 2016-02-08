@@ -8,6 +8,10 @@ This is a quick demo to show how to generate a KMZ/KML from a GeoTIFF that cross
 
 ## Instructions
 
+We will start by turning the following GeoTIFF into a KML
+
+http://feeder.gina.alaska.edu/npp-gina-alaska-truecolor-images/2016_02_07_22_18_jd_38
+
 1. Make the project space
 ```
 mkdir kmldemo
